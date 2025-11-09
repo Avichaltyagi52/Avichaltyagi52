@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avichaltyagi52
-- 👀 I’m interested in web development, backend and frontend development and Logic building in DSA
-- 🌱 I’m currently learning javascript and bootstrap and React
+- 👀 I’m interested in Excel, SQL and Power BI.
+- 🌱 I’m currently learning Python, dax queries, data modeling and Dashboard Creation.
 - 💞️ I’m looking to collaborate on an project to learn and gain more experience and knowledge
 - 📫 How to reach me through linkedin, twitter 
 - ⚡ Fun fact: A confident and responsible person
